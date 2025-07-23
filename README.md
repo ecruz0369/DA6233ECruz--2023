@@ -1,2 +1,2 @@
-# DA6233ECruz--2023
+#Data Analytics Projects 
 This repository is store all visualization projects
